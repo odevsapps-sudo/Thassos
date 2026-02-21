@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thassos Ride &amp; Joy</string>
+    <string name="card_scooter">Robogó, ATV, autó és buggy</string>
+    <string name="card_restaurants">Éttermek</string>
+    <string name="card_beaches">Strandok és látnivalók</string>
+    <string name="vehicles">Járművek</string>
+    <string name="location">Helyszín</string>
+    <string name="cm3">cm³</string>
+    <string name="vehicle_type">Jármű típusa</string>
+    <string name="brand">Márka</string>
+    <string name="filter_button_text">Járművek szűrése</string>
+    <string name="request_offer">Ajánlatot kérek</string>
+    <string name="quote_title">Ajánlatkérés</string>
+    <string name="quote_explainer">Add meg az e-mail címedet, ahová a kereskedő visszajelzést küldhet:</string>
+    <string name="email_label">E-mail cím</string>
+    <string name="send">Küldés</string>
+    <string name="map">Offline térkép</string>
+    <string name="cancel">Mégsem</string>
+    <string name="quote_subject_prefix">Ajánlatkérés:</string>
+    <string name="quote_email_body">Kedves Kereskedő!\n\nEgy felhasználó érdeklődik a következő jármű iránt:\n\nJármű: %1$s\nTípus: %2$s %3$s\ncm3: %4$s\nÁr: %5$s €/nap\nHelyszín: %6$s\nLeírás: %7$s\n\nKapcsolattartó e-mail címe: %8$s\n\nKérjük, válaszoljon az érdeklődőnek.</string>
+    <string name="email_error">Nem sikerült megnyitni a levelezőt.</string>
+    <string name="choose_email_client">Válassz levelező alkalmazást</string>
+    <string name="mapbox_access_token">ITT_A_TE_API_KULCSOD</string>
+    <string name="ferries">Kompok</string>
+    </resources>

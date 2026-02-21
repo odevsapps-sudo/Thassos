@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Changed & to 'and' to avoid any escaping issues -->
+    <string name="app_name">Thassos Ride and Joy</string>
+    <string name="card_scooter">Scooter, ATV, car and buggy</string>
+    <string name="card_restaurants">Restaurants</string>
+    <!-- Changed & to 'and' -->
+    <string name="card_beaches">Beaches and Sightseeing</string>
+    <string name="vehicles">Vehicles</string>
+    <string name="location">Location</string>
+    <!-- Consistently using Unicode for superscript 3 -->
+    <string name="cm3">cm\u00B3</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="brand">Brand</string>
+    <string name="filter_button_text">Filter vehicles</string>
+    <string name="request_offer">Request an offer</string>
+    <string name="quote_title">Offer request</string>
+    <string name="quote_explainer">Enter your email so the dealer can respond:</string>
+    <string name="email_label">Email address</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="map">Offline Map</string>
+    <string name="quote_subject_prefix">Quote request:</string>
+    <!-- Reformatted the long string for better readability -->
+    <string name="quote_email_body">Dear Dealer,\n\nA user is interested in the following vehicle:\n\nVehicle: %1$s\nType: %2$s %3$s\ncm\u00B3: %4$s\nPrice: %5$s €/day\nLocation: %6$s\nDescription: %7$s\n\nUser\'s contact email: %8$s\n\nPlease reply to the user.</string>
+    <string name="email_error">Could not open mail client.</string>
+    <string name="choose_email_client">Choose an email app</string>
+    <string name="ferries">Ferries</string>
+    </resources>

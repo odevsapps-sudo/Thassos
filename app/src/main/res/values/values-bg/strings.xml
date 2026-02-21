@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thassos Ride &amp; Joy</string>
+    <string name="card_scooter">Скутер, АТВ, кола и бъги</string>
+    <string name="card_restaurants">Ресторанти</string>
+    <string name="card_beaches">Плажове и забележителности</string>
+    <string name="vehicles">Превозни средства</string>
+    <string name="location">Местоположение</string>
+    <string name="cm3">см³</string>
+    <string name="vehicle_type">Тип превозно средство</string>
+    <string name="brand">Марка</string>
+    <string name="filter_button_text">Филтрирай превозни средства</string>
+    <string name="request_offer">Заяви оферта</string>
+    <string name="quote_title">Запитване за оферта</string>
+    <string name="quote_explainer">Въведи своя имейл адрес, за да получиш отговор от търговеца:</string>
+    <string name="email_label">Имейл адрес</string>
+    <string name="send">Изпрати</string>
+    <string name="cancel">Отказ</string>
+    <string name="map">Офлайн карта</string>
+    <string name="quote_subject_prefix">Запитване за оферта:</string>
+    <string name="quote_email_body">Уважаеми търговец,\n\nПотребител проявява интерес към следното превозно средство:\n\nПревозно средство: %1$s\nТип: %2$s %3$s\nсм3: %4$s\nЦена: %5$s €/ден\nМестоположение: %6$s\nОписание: %7$s\n\nИмейл за връзка: %8$s\n\nМоля, отговорете на потребителя.</string>
+    <string name="email_error">Неуспешно отваряне на имейл клиента.</string>
+    <string name="choose_email_client">Избери имейл приложение</string>
+    <string name="ferries">Фериботи</string>
+   </resources>
